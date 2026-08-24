@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat" />
+</p>
 
-<!--
-**luqman126/luqman126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Luqman</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Infrastructure | Cloud & DevOps</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_AWS_BUILDER_CENTER_URL">
+    <img src="https://img.shields.io/badge/AWS%20Builder%20Center-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+</p>
