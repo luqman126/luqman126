@@ -2,33 +2,20 @@
 
 ---
 
-# Hi, I'm Luqman 👋
+# Hi 👋, I'm Luqman
 
-I build software that is practical, clean, and easy to use.
+Infrastructure | Cloud & DevOps
 
-- 💻 Interested in development, problem-solving, and creating useful tools
-- 🌱 Always learning and improving my craft
-- 🚀 Enjoy turning ideas into working projects
-- 🤝 Open to collaboration and new opportunities
+I’m focused on building reliable, scalable, and efficient systems.
 
-## Tech I use
+- ☁️ Interested in cloud infrastructure, automation, and DevOps practices
+- 🔧 Exploring AWS, CI/CD, and modern deployment workflows
+- 📈 Learning how to improve system reliability and developer productivity
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Connect with me
 
-## Current focus
-
-- Building small but meaningful projects
-- Improving my backend and frontend skills
-- Exploring better ways to solve real-world problems
-
-## Connect
-
-[GitHub](https://github.com/luqman126) · [LinkedIn](https://www.linkedin.com) · [Email](mailto:luqman@example.com)
+[LinkedIn](YOUR_LINKEDIN_URL) · [AWS Builder Center](YOUR_AWS_BUILDER_CENTER_URL)
 
 ---
 
-> Simple code. Clear thinking. Useful products.
+Thank you for stopping by!
