@@ -14,7 +14,7 @@ I’m focused on building reliable, scalable, and efficient systems.
 
 ### Connect with me
 
-[LinkedIn](www.linkedin.com/in/luqmanhakim-id) · [AWS Builder Center](https://builder.aws.com/community/@cheshire?tab=badges)
+[LinkedIn](https://www.linkedin.com/in/luqmanhakim-id/?isSelfProfile=true) · [AWS Builder Center](https://builder.aws.com/community/@cheshire?tab=badges)
 
 ---
 
